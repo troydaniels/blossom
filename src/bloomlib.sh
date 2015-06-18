@@ -1,4 +1,5 @@
 #bloomlib.sh
+#Troy Daniels
 #Functions for the manipulation of a bloom filter
 
 #Calculates the 32-bit FNV hash of argument

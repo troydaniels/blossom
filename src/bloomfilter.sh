@@ -1,5 +1,6 @@
 #!/bin/bash
 #bloomfilter.sh
+#Troy Daniels
 #A bloom filter, using functions from bloomlib.sh
 . bloomlib.sh
 
